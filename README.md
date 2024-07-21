@@ -6,4 +6,4 @@ Google search - инструмент, который выполняет поис
 Просмотрите [обучающий раздел](tutorialy/pervyi-shag-k-poisku.md), для того чтобы наглядно посмотреть как работает Google search.
 {% endhint %}
 
-[https://fortechwriters.atlassian.net/browse/SCRUM-1](https://fortechwriters.atlassian.net/browse/SCRUM-1)
+{% @jira/embed url="https://fortechwriters.atlassian.net/browse/SCRUM-1" %}
